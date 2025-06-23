@@ -20,7 +20,7 @@ Welcome to my GitHub!
 <div>
   <a href="https://github.com/alinevsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinevsouza&show_icons=true&count_private=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinevsouza&langs_count=16&count_private=true&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinevsouza&layout=compact&count_private=true&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
