@@ -17,10 +17,9 @@ Welcome to my GitHub!
 
 ## My Stats.
 
-<div>
-  <a href="https://github.com/alinevsouza">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alinevsouza&show_icons=true&count_private=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinevsouza&count_private=true&theme=synthwave"/>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alinevsouza&theme=synthwave&layout=compact" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinevsouza&theme=synthwave&hide_border=true&layout=compact" >
 </div>
 
 <div style="display: inline_block"><br>
