@@ -17,7 +17,7 @@ Welcome to my GitHub!
 
 ## My Stats.
 
-<div align="center">
+<div style="display: inline_block">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alinevsouza&theme=synthwave&layout=compact" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinevsouza&theme=synthwave&hide_border=true&layout=compact" >
 </div>
